@@ -1,0 +1,37 @@
+export 'package:movies/features/tv_series/data/models/episode_model.dart';
+export 'package:movies/features/tv_series/data/models/tv_details_model.dart';
+export 'package:movies/features/tv_series/data/models/tv_series_model.dart';
+export 'package:movies/features/tv_series/data/models/tv_series_response_model.dart';
+export 'package:movies/features/tv_series/data/models/season_model.dart';
+export 'package:movies/features/tv_series/data/datasource/remote/remote_data_source.dart';
+
+export 'package:movies/features/tv_series/domain/entities/tv_details.dart';
+export 'package:movies/features/tv_series/domain/entities/episode.dart';
+export 'package:movies/features/tv_series/domain/entities/season.dart';
+export 'package:movies/features/tv_series/domain/entities/tv_series.dart';
+export 'package:movies/features/tv_series/domain/entities/tv_series_response.dart';
+export 'package:movies/features/tv_series/domain/repository/tv_series_respository.dart';
+export 'package:movies/features/tv_series/domain/usecases/get_similar_tv_series_usecase.dart';
+export 'package:movies/features/tv_series/domain/usecases/get_tv_season_episodes_usecase.dart';
+export 'package:movies/features/tv_series/domain/usecases/get_tv_series_details_usecase.dart';
+export 'package:movies/features/tv_series/domain/usecases/get_airing_today_tv_series_usecase.dart';
+export 'package:movies/features/tv_series/domain/usecases/get_on_the_air_tv_series_usecase.dart';
+export 'package:movies/features/tv_series/domain/usecases/get_popular_tv_series_usecase.dart';
+export 'package:movies/features/tv_series/domain/usecases/get_top_reated_tv_series_usecase.dart';
+
+export 'package:movies/features/tv_series/presentation/controller/tv_series_bloc/tv_series_event.dart';
+export 'package:movies/features/tv_series/presentation/controller/tv_series_bloc/tv_series_state.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_details_screen_widgets/custom_sliver_presistent_header_with_tab_bar.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_details_screen_widgets/episodes_widget.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_details_screen_widgets/more_like_this_widget.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_details_screen_widgets/tv_details_widget.dart';
+export 'package:movies/features/settings/presentation/controller/bloc/settings_bloc.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_screen_widgets/airing_today_tv_series_widget.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_screen_widgets/on_the_air_tv_series_widget.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_screen_widgets/popular_tv_series_widget.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_screen_widgets/top_rated_tv_series_widget.dart';
+export 'package:movies/features/tv_series/presentation/controller/tv_details_bloc/tv_details_bloc.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_details_screen_widgets/custom_drop_down_button.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_details_screen_widgets/custom_episode_list_view.dart';
+export 'package:movies/features/tv_series/presentation/widgets/tv_series_details_screen_widgets/custom_episode_item.dart';
+export 'package:movies/features/tv_series/presentation/screens/tv_series_screen.dart';
