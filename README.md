@@ -27,7 +27,7 @@
 - 🦴 Skeleton loading screens for improved user experience
 - 🔄 Smooth transitions and animations
 - 📱 Responsive design that works across different device sizes
-
+- 🚀 Sliver widgets for high-performance scrolling and dynamic layouts
 ## 🛠️ Architecture and Technical Implementation
 
 ### 🧹 Clean Architecture
