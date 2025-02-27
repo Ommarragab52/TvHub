@@ -1,4 +1,3 @@
-
 ![tv_hub](https://github.com/user-attachments/assets/625617c0-4372-4183-a2c4-b7c86e5e9b05)
 
 ### TVHUB is a modern Flutter application that provides users with a comprehensive database of movies and TV shows, powered by TheMovieDB API. The app features a sleek interface with multiple screens for browsing, searching, and managing content preferences.
@@ -122,6 +121,10 @@ The app follows clean architecture principles with a clear separation of concern
   | SERACH EN | SERACH AR |
   |-----------|-----------|
   |![image](https://github.com/user-attachments/assets/cf44c90d-dd0e-4991-9918-f08b2ba9a0b5)|![image](https://github.com/user-attachments/assets/1f1bce5b-5584-4fa2-b8fe-2110fe1d1dc2)|
+
+  | ERORR HANDLING EN | ERORR HANDLING AR |
+  |-----------|-----------|
+  |![image](https://github.com/user-attachments/assets/6c8a28e0-f4a5-4f19-bf7c-f1717a898f15)|![image](https://github.com/user-attachments/assets/8a64ac2c-d942-43fc-989b-d1e3d86eed12)|
   
   | SETTINGS EN | SETTINGS AR |
   |-----------|-----------|
