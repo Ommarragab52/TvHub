@@ -50,8 +50,7 @@ The app follows clean architecture principles with a clear separation of concern
 - 💾 Local storage for user preferences
 
 ## 🗂️ Project Structure
-
-![project_structure](https://github.com/user-attachments/assets/d76a2454-0309-4680-997e-9c0f3d9119c0)
+![{C1EB3B6E-B132-485F-888E-FF4A72E5D044}](https://github.com/user-attachments/assets/a6b56b39-d80f-4736-bd1b-0d71badfe75f)
 
 ## Dependencies
 
